@@ -2,10 +2,10 @@
 
 pkg install git
 
-git clone https://github.com/dulatip/fastcr4ck
+git clone https://github.com/dulatip/fastmbf
 
 ls
 
-cd fastcr4ck
+cd fastmbf
 
-python2 fastcr4ck.py
+python2 fastmbf.py
