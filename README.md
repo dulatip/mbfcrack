@@ -2,10 +2,10 @@
 
 pkg install git
 
-git clone https://github.com/dulatip/fastmbf
+git clone https://github.com/dulatip/mbfcrack
 
 ls
 
-cd fastmbf
+cd mbfcrack
 
-python2 fastmbf.py
+python2 mbfcrack.py
